@@ -1,3 +1,5 @@
+**Papers read before joining**
+
 [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/pdf/1901.08573)
 
 Previous research shows that there is tradeoff between accuracy and robustness, but that is undesirable.
